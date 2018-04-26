@@ -6,5 +6,5 @@
 *.doc
 *.docx
 
-t*.py
+tt*.py
 *_dou.py
