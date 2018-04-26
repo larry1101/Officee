@@ -1,0 +1,10 @@
+.idea
+
+*.jpg
+*.ppt
+*.pptx
+*.doc
+*.docx
+
+t*.py
+*_dou.py
